@@ -30,7 +30,7 @@ body {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 380px) {
   .col-to-row {
     flex-direction: column;
     align-items: center;
