@@ -15,12 +15,14 @@ body {
   body {
     background-image: url("../images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
+    background-size: contain;
   }
 }
 @media (min-width: 375px) {
   body {
     background-image: url("../images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
+    background-size: contain;
   }
 }
 
