@@ -30,14 +30,6 @@ body {
   }
 }
 
-@media (max-width: 380px) {
-  .col-to-row {
-    flex-direction: column;
-    align-items: center;
-    margin: 1em 0;
-  }
-}
-
 /* Frontend Mentor Attribution */
 .attribution {
   font-size: 11px;
